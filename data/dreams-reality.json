@@ -1,0 +1,74 @@
+{
+  "dreams": [
+    {
+      "id": 1,
+      "dream": "🌟 Break Free From Daily Lazy Routine",
+      "reality": "Recognize the routine, see the transformation before and after, make positive change a part of daily life",
+      "targetDate": null,
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "dream": "💭 Make My Dreams Come True",
+      "reality": "Dreams feel easy in imagination, but reality hits different - I need to work hard and start converting dreams into reality",
+      "targetDate": null,
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "dream": "💪 Stay Consistent & Never Give Up",
+      "reality": "Once I start, never stop at any cost - be confident, avoid excuses, and commit fully to the journey",
+      "targetDate": null,
+      "isCompleted": false
+    },
+    {
+      "id": 4,
+      "dream": "🔄 Give Myself Another Chance to Change",
+      "reality": "Face the reality of life, acknowledge the truth, and work towards making life better than before",
+      "targetDate": null,
+      "isCompleted": false
+    },
+    {
+      "id": 5,
+      "dream": "👋 Say Goodbye to Lazy Life",
+      "reality": "End the cycle of laziness, thank myself for the effort, dedicate time and work with focus and discipline",
+      "targetDate": null,
+      "isCompleted": false
+    },
+    {
+      "id": 6,
+      "dream": "✨ Become The Best Version of Myself",
+      "reality": "Never take anything for granted, work with dedication, think carefully before starting, then commit with full confidence",
+      "targetDate": null,
+      "isCompleted": false
+    }
+  ],
+  "slideContent": {
+    "slide1": {
+      "title": "My Daily Life - Routine",
+      "content": "Understanding the current routine and recognizing the habit of being lazy"
+    },
+    "slide2": {
+      "title": "Sweet Dreams",
+      "content": "Dreams look different and beautiful - with multiple images showing imagination. Once you take it as part of life and see the transformation, before and after the change becomes visible"
+    },
+    "slide3": {
+      "title": "Dreams vs Reality",
+      "content": "Dreams feel easy only in imagination, but reality hits different. It's much harder in real life. Let's start working on this and make my dreams true"
+    },
+    "slide4": {
+      "title": "Reality of Life - Give Another Chance",
+      "content": "Reality shows the truth about life. Let's give another chance to change and face what's real"
+    },
+    "slide5": {
+      "title": "Goodbye to Lazy Life",
+      "content": "Starting and ending lazy life here. Saying goodbye to laziness. Be the best and do the best for myself. Never take anything for granted. Work with focus and dedication. Good luck for myself!"
+    }
+  },
+  "motivation": {
+    "mainMessage": "Good Luck For Myself! 💪",
+    "theme": "Sweet Dreams - From Lazy Life to Best Version",
+    "coreMessage": "Starting and ending lazy life. Be the best and do the best for myself. Never take anything for granted. Once you give excuses, you start being lazy again. Be confident and start. Once you start, never stop at any cost. Think carefully before starting, then commit fully with no excuses.",
+    "finalWish": "GOOD LUCK FOR MYSELF ✨"
+  }
+}

@@ -1,21 +1,3 @@
-# 🎀 Hemashree's World - Complete Source Code
-
-> Save this as **`index.html`** in your repo root
-
-**Key Features:**
-- ✅ Auto-loads files from `manifest.json` (no manual entry)
-- ✅ Displays by date only (filenames hidden)
-- ✅ Dreams vs Reality from `dreams-reality.json`
-- ✅ All data local (browser storage)
-- ✅ Birthday experience (once only)
-- ✅ 9 fully functional tabs
-- ✅ Global music player
-- ✅ Time-based themes
-- ✅ Your special letter embedded
-
----
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1059,7 +1041,7 @@ Your Chintu ❤️`;
                 slide.innerHTML = `
                     <img src="${photo.path}" alt="${photo.displayDate}">
                     <div class="gallery-overlay">
-                        📅 ${photo.displayDate}
+                        ${photo.path.split('/').pop()}
                     </div>
                 `;
                 container.appendChild(slide);
@@ -1135,7 +1117,7 @@ Your Chintu ❤️`;
                 item.className = 'timeline-item';
                 item.innerHTML = `
                     <div class="timeline-content" onclick="openVideoModal('${video.path}')">
-                        <div class="timeline-date">📅 ${video.displayDate}</div>
+                        <div class="timeline-date">${video.path.split('/').pop()}</div>
                         <div style="background: #000; color: white; padding: 20px; border-radius: 5px; text-align: center; cursor: pointer; margin-top: 10px;">
                             ▶ Play Video
                         </div>
@@ -1562,8 +1544,3 @@ Your Chintu ❤️`;
 
 </body>
 </html>
-```
-
----
-
-**Done!** This is your complete, production-ready app.

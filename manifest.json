@@ -1,0 +1,552 @@
+{
+  "memories": [],
+  "videos": [],
+  "secretPhotos": [],
+  "secretVideos": [],
+  "songs": [
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Aarya-2_-_Ringa_Ringa_Video___Allu_Arjun___Devi_Sri_Prasad(0).mp3",
+      "title": "Aarya-2_-_Ringa_Ringa_Video___Allu_Arjun___Devi_Sri_Prasad(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Aata_Songs___Yela_Yela_Video_Song___Siddharth,_Ileana___Sri_Balaji_Video(0).mp3",
+      "title": "Aata_Songs___Yela_Yela_Video_Song___Siddharth,_Ileana___Sri_Balaji_Video(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Akh_Lad_Jaave_With_Lyrics___Loveyatri___Aayush_S___Warina_H__Badshah,Tanishk_Bagchi,Jubin_N,Asees_K(0).mp3",
+      "title": "Akh_Lad_Jaave_With_Lyrics___Loveyatri___Aayush_S___Warina_H__Badshah,Tanishk_Bagchi,Jubin_N,Asees_K(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Ayyo_Ayyo_Full_Video_Song_HD___Nagarjuna___Karthi___Tamannaah___Gopi_Sundar(0).mp3",
+      "title": "Ayyo_Ayyo_Full_Video_Song_HD___Nagarjuna___Karthi___Tamannaah___Gopi_Sundar(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Bommali_[4K]_Video_Song___Billa_Telugu_Movie___Prabhas,_Anushka___Mani_Sharma___Telugu_Hit_Song(0).mp3",
+      "title": "Bommali_[4K]_Video_Song___Billa_Telugu_Movie___Prabhas,_Anushka___Mani_Sharma___Telugu_Hit_Song(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Chinni_Gundelo_-_Lyrical___Andhra_King_Taluka___Ram_Pothineni___Bhagyashri_Borse___Mahesh_Babu_P(0).mp3",
+      "title": "Chinni_Gundelo_-_Lyrical___Andhra_King_Taluka___Ram_Pothineni___Bhagyashri_Borse___Mahesh_Babu_P(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Chirutha_Songs___Endhuko_Video_Song___Telugu_Latest_Video_Songs___Ram_Charan___Sri_Balaji_Video(0).mp3",
+      "title": "Chirutha_Songs___Endhuko_Video_Song___Telugu_Latest_Video_Songs___Ram_Charan___Sri_Balaji_Video(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Choopultho_Guchi_Telugu_Full_Video_Song____Ravi_Teja,_Rakshita____Telugu_Videos(0).mp3",
+      "title": "Choopultho_Guchi_Telugu_Full_Video_Song____Ravi_Teja,_Rakshita____Telugu_Videos(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/DILBAR_Full_Song___Satyameva_Jayate___John_Abraham_Nora_Fatehi___Tanishk_B_Neha_Kakkar_Ikka_Dhvani(0).mp3",
+      "title": "DILBAR_Full_Song___Satyameva_Jayate___John_Abraham_Nora_Fatehi___Tanishk_B_Neha_Kakkar_Ikka_Dhvani(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Dheemthanana_Full_Video_Song___Urvasivo_Rakshasivo___Allu_Sirish___Achu_Rajamani___Sid_Sriram(0).mp3",
+      "title": "Dheemthanana_Full_Video_Song___Urvasivo_Rakshasivo___Allu_Sirish___Achu_Rajamani___Sid_Sriram(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Diwali_Deepaanni_Song_With_Lyrics_-_Dhada_Songs_Telugu_-_Naga_Chaitanya,_Kajal_Aggarwal,_DSP_Hits(0).mp3",
+      "title": "Diwali_Deepaanni_Song_With_Lyrics_-_Dhada_Songs_Telugu_-_Naga_Chaitanya,_Kajal_Aggarwal,_DSP_Hits(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Don_Bosco_Full_Video_Song___Amar_Akbar_Anthony_Video_Songs___Ravi_Teja,_Ileana_D_Cruz___SS_Thaman(0).mp3",
+      "title": "Don_Bosco_Full_Video_Song___Amar_Akbar_Anthony_Video_Songs___Ravi_Teja,_Ileana_D_Cruz___SS_Thaman(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Door_No_1_Full_Video_Song_HD___Nagarjuna___Karthi___Tamannaah____Gopi_Sundar(0).mp3",
+      "title": "Door_No_1_Full_Video_Song_HD___Nagarjuna___Karthi___Tamannaah____Gopi_Sundar(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Edo_Jaruguthondi_Video_Song___Fidaa_Songs__Varun_Tej,_Sai_Pallavi__Sekhar_Kammula__Telugu_Love_Songs(0).mp3",
+      "title": "Edo_Jaruguthondi_Video_Song___Fidaa_Songs__Varun_Tej,_Sai_Pallavi__Sekhar_Kammula__Telugu_Love_Songs(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Song__KHAIRIYAT__BONUS_TRACK____CHHICHHORE___Sushant,_Shraddha___Pritam,_Amitabh_B_Arijit_Singh(0).mp3",
+      "title": "Full_Song__KHAIRIYAT__BONUS_TRACK____CHHICHHORE___Sushant,_Shraddha___Pritam,_Amitabh_B_Arijit_Singh(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Song__O_SAKI_SAKI___Batla_House___Nora_Fatehi,_Tanishk_B,Neha_K,Tulsi_K,_B_Praak,Vishal-Shekhar(0).mp3",
+      "title": "Full_Song__O_SAKI_SAKI___Batla_House___Nora_Fatehi,_Tanishk_B,Neha_K,Tulsi_K,_B_Praak,Vishal-Shekhar(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Video__Akh_Lad_Jaave___Loveyatri___Aayush_S_Warina_H__Badshah,_Tanishk_Bagchi,Jubin_N,_,Asees_K(0).mp3",
+      "title": "Full_Video__Akh_Lad_Jaave___Loveyatri___Aayush_S_Warina_H__Badshah,_Tanishk_Bagchi,Jubin_N,_,Asees_K(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Video__Godari_Gattu_-_Sankranthiki_Vasthunam___Venkatesh,Aishwarya___Anil_Ravipudi___Bheems_C(0).mp3",
+      "title": "Full_Video__Godari_Gattu_-_Sankranthiki_Vasthunam___Venkatesh,Aishwarya___Anil_Ravipudi___Bheems_C(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Video__Hookah_Bar___Khiladi_786___Akshay_Kumar___Asin___Himesh_Reshammiya(0).mp3",
+      "title": "Full_Video__Hookah_Bar___Khiladi_786___Akshay_Kumar___Asin___Himesh_Reshammiya(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Video__Parichayamila_8_Vasantalu___Ananthika_Sanilkumar___Phanindra_Narsetti___Hesham___Chithra(0).mp3",
+      "title": "Full_Video__Parichayamila_8_Vasantalu___Ananthika_Sanilkumar___Phanindra_Narsetti___Hesham___Chithra(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Full_Video__Ra_Ra_Rakkamma_Song___Vikrant_Rona_Telugu___Kichcha_Sudeep___Jacqueline_Fernandez___Anup(0).mp3",
+      "title": "Full_Video__Ra_Ra_Rakkamma_Song___Vikrant_Rona_Telugu___Kichcha_Sudeep___Jacqueline_Fernandez___Anup(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Gang_-_Naala_Nenu_Telugu_Video___Suriya,_Keerthy_Suresh___Anirudh(0).mp3",
+      "title": "Gang_-_Naala_Nenu_Telugu_Video___Suriya,_Keerthy_Suresh___Anirudh(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Godavari_Songs___Andamga_Lenaa_Song___Kamalini___Singer_Suneetha___TeluguOne(0).mp3",
+      "title": "Godavari_Songs___Andamga_Lenaa_Song___Kamalini___Singer_Suneetha___TeluguOne(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/I_Wanna_Fly_Full_Video_Song____Krishnarjuna_Yudham_Songs____Nani,Hiphop_Tamizha___Telugu_Video_Songs(0).mp3",
+      "title": "I_Wanna_Fly_Full_Video_Song____Krishnarjuna_Yudham_Songs____Nani,Hiphop_Tamizha___Telugu_Video_Songs(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Iddarammayilatho_Video_Songs___Top_Lesi_Poddi_Video_Song_Allu_Arjun,_Catherine___Sri_Balaji_Video(0).mp3",
+      "title": "Iddarammayilatho_Video_Songs___Top_Lesi_Poddi_Video_Song_Allu_Arjun,_Catherine___Sri_Balaji_Video(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Inthandham_8K_4K_Video_Song_-_Sita_Ramam__Telugu____Dulquer___Mrunal___Vishal___Hanu_Raghavapudi(0).mp3",
+      "title": "Inthandham_8K_4K_Video_Song_-_Sita_Ramam__Telugu____Dulquer___Mrunal___Vishal___Hanu_Raghavapudi(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/JAWAN__Chaleya__Hindi____Shah_Rukh_Khan___Nayanthara___Atlee___Anirudh___Arijit_S,_Shilpa_R___Kumaar(0).mp3",
+      "title": "JAWAN__Chaleya__Hindi____Shah_Rukh_Khan___Nayanthara___Atlee___Anirudh___Arijit_S,_Shilpa_R___Kumaar(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Jorsey_Full_Video_Song____Magadheera_Movie____Ram_Charan,_Kajal_Agarwal(0).mp3",
+      "title": "Jorsey_Full_Video_Song____Magadheera_Movie____Ram_Charan,_Kajal_Agarwal(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Junction_Lo_[4K]_Video_Song___Aagadu___Mahesh_Babu,_Tamannaah_Bhatia___Thaman_S(0).mp3",
+      "title": "Junction_Lo_[4K]_Video_Song___Aagadu___Mahesh_Babu,_Tamannaah_Bhatia___Thaman_S(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Kala_Kala_Kalamandhir_Full_Video_Song___Inttelligent__Sai_Dharam_Tej__Lavanya_Tripathi__Telugu_Songs(0).mp3",
+      "title": "Kala_Kala_Kalamandhir_Full_Video_Song___Inttelligent__Sai_Dharam_Tej__Lavanya_Tripathi__Telugu_Songs(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Kola_Kalle_Ilaa_Lyrical___#VaruduKaavalenu_Songs___Naga_Shaurya,_Ritu_Varma___Sid_Sriram___Vishal_C(0).mp3",
+      "title": "Kola_Kalle_Ilaa_Lyrical___#VaruduKaavalenu_Songs___Naga_Shaurya,_Ritu_Varma___Sid_Sriram___Vishal_C(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Koyila_Music_Video_Alekhya_Harika___Vinayshanmukh__Vijai_Bulganin__Nitesh_Krishnan__Cinegrindstudios(0).mp3",
+      "title": "Koyila_Music_Video_Alekhya_Harika___Vinayshanmukh__Vijai_Bulganin__Nitesh_Krishnan__Cinegrindstudios(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Kung_Fu_Kumaari_-_Bruce_Lee_The_Fighter___Ram_Charan___Rakul_Preet_Singh___Ramya_Behara___Deepak(0).mp3",
+      "title": "Kung_Fu_Kumaari_-_Bruce_Lee_The_Fighter___Ram_Charan___Rakul_Preet_Singh___Ramya_Behara___Deepak(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/LYRICAL__Photo_Song___Luka_Chuppi___Kartik_Aaryan,_Kriti_Sanon__Karan_S__Goldboy__TanishkB___Nirmaan(0).mp3",
+      "title": "LYRICAL__Photo_Song___Luka_Chuppi___Kartik_Aaryan,_Kriti_Sanon__Karan_S__Goldboy__TanishkB___Nirmaan(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Love_Lyrical_Video_Song___Kannappa_-Telugu___Vishnu_Manchu,Preity_M___Mohan_Babu___Mukesh_Kumar_S(0).mp3",
+      "title": "Love_Lyrical_Video_Song___Kannappa_-Telugu___Vishnu_Manchu,Preity_M___Mohan_Babu___Mukesh_Kumar_S(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Lyrical__Chammak_Challo___Ra_One___ShahRukh_Khan___Kareena_Kapoor(0).mp3",
+      "title": "Lyrical__Chammak_Challo___Ra_One___ShahRukh_Khan___Kareena_Kapoor(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Lyrical__Psycho_Saiyaan___Saaho___Prabhas,_Shraddha_Kapoor___Tanishk_Bagchi,_Dhvani_B,_Sachet_T(0).mp3",
+      "title": "Lyrical__Psycho_Saiyaan___Saaho___Prabhas,_Shraddha_Kapoor___Tanishk_Bagchi,_Dhvani_B,_Sachet_T(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Manohari_[4K]_Full_Video_Song___Baahubali__Telugu____Prabhas,_Rana,_Anushka,_Tamannaah___Bahubali(0).mp3",
+      "title": "Manohari_[4K]_Full_Video_Song___Baahubali__Telugu____Prabhas,_Rana,_Anushka,_Tamannaah___Bahubali(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Mirchi_Songs___Darlingey_Video_Song___Latest_Telugu_Video_Songs___Prabhas,_Anushka(0).mp3",
+      "title": "Mirchi_Songs___Darlingey_Video_Song___Latest_Telugu_Video_Songs___Prabhas,_Anushka(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Mirchi_Songs___Idedo_Bagundi_Video_Song___Latest_Telugu_Songs___Prabhas,_Anushka_@SriBalajiMovies(0).mp3",
+      "title": "Mirchi_Songs___Idedo_Bagundi_Video_Song___Latest_Telugu_Songs___Prabhas,_Anushka_@SriBalajiMovies(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Monica_-Telugu_Video_Song__COOLIE__Superstar_Rajinikanth__Sun_Pictures__Lokesh__Anirudh__Pooja_Hegde(0).mp3",
+      "title": "Monica_-Telugu_Video_Song__COOLIE__Superstar_Rajinikanth__Sun_Pictures__Lokesh__Anirudh__Pooja_Hegde(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Naayak_Movie_Songs___Hey_Naayak_Full_Video_Song___Latest_Telugu_Superhits_@SriBalajiMovies(0).mp3",
+      "title": "Naayak_Movie_Songs___Hey_Naayak_Full_Video_Song___Latest_Telugu_Superhits_@SriBalajiMovies(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Nee_Kallalona_Full_Video_Song___Jai_Lava_Kusa_Songs___Jr_NTR,_Raashi_Khanna,_DSP___Telugu_Songs_2017(0).mp3",
+      "title": "Nee_Kallalona_Full_Video_Song___Jai_Lava_Kusa_Songs___Jr_NTR,_Raashi_Khanna,_DSP___Telugu_Songs_2017(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Ninnila_Full_Video_Song___Tholi_Prema_Video_Songs___Varun_Tej,_Raashi_Khanna___SS_Thaman(0).mp3",
+      "title": "Ninnila_Full_Video_Song___Tholi_Prema_Video_Songs___Varun_Tej,_Raashi_Khanna___SS_Thaman(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Nuvvunte_Chaley_-_Lyrical___Andhra_King_Taluka___Ram_Pothineni___Bhagyashri_Borse___Mahesh_Babu_P(0).mp3",
+      "title": "Nuvvunte_Chaley_-_Lyrical___Andhra_King_Taluka___Ram_Pothineni___Bhagyashri_Borse___Mahesh_Babu_P(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Orori_Yogi_Video_Song_With_English_Translation___Prabhas___Yogi_Movie___Mumaith_Khan___Nayanthara(0).mp3",
+      "title": "Orori_Yogi_Video_Song_With_English_Translation___Prabhas___Yogi_Movie___Mumaith_Khan___Nayanthara(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Param_Sundari_-_Full_Song___Mimi___Kriti_Sanon,_Pankaj_T___A.R._Rahman___Shreya___Amitabh(0).mp3",
+      "title": "Param_Sundari_-_Full_Song___Mimi___Kriti_Sanon,_Pankaj_T___A.R._Rahman___Shreya___Amitabh(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Premalo_-_Video_Song___Court___Priyadarshi,_Harsh_Roshan,_Sridevi___Vijai_Bulganin___Ram_Jagadeesh(0).mp3",
+      "title": "Premalo_-_Video_Song___Court___Priyadarshi,_Harsh_Roshan,_Sridevi___Vijai_Bulganin___Ram_Jagadeesh(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Raa_Raa_Naa_Veera_Song_With_Telugu_Lyrics___Ganga__Muni_3____Lawrence,_Tapasee___Maa_Paata_Mee_Nota(0).mp3",
+      "title": "Raa_Raa_Naa_Veera_Song_With_Telugu_Lyrics___Ganga__Muni_3____Lawrence,_Tapasee___Maa_Paata_Mee_Nota(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Rambai_Neemeedha_Naku_Video_Song___Raju_Weds_Rambai___Suresh_Bobbili___In_theatres_from_NOV_21st(0).mp3",
+      "title": "Rambai_Neemeedha_Naku_Video_Song___Raju_Weds_Rambai___Suresh_Bobbili___In_theatres_from_NOV_21st(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Rangasthalam_Video_Songs___Jigelu_Rani_Full_Video_Song___Ram_Charan,_Pooja_Hegde(0).mp3",
+      "title": "Rangasthalam_Video_Songs___Jigelu_Rani_Full_Video_Song___Ram_Charan,_Pooja_Hegde(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/SWING_ZARA_Full_Video_Song___Jai_Lava_Kusa_Video_Songs___Jr_NTR,_Tamannaah___Devi_Sri_Prasad(0).mp3",
+      "title": "SWING_ZARA_Full_Video_Song___Jai_Lava_Kusa_Video_Songs___Jr_NTR,_Tamannaah___Devi_Sri_Prasad(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Saaho__Bad_Boy_Full_Video_Song___Prabhas,_Jacqueline_Fernandez___Badshah,_Neeti_Mohan(0).mp3",
+      "title": "Saaho__Bad_Boy_Full_Video_Song___Prabhas,_Jacqueline_Fernandez___Badshah,_Neeti_Mohan(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Saree_Ke_Fall_Sa__Full__Video__-_R...Rajkumar_Pritam_Shahid___Sonakshi_Antara___Nakash(0).mp3",
+      "title": "Saree_Ke_Fall_Sa__Full__Video__-_R...Rajkumar_Pritam_Shahid___Sonakshi_Antara___Nakash(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Silakaaa_Full_Song____Mirapakay_Movie___Ravi_Teja,_Richa_Gangopadyaya,Deeksha_Seth(0).mp3",
+      "title": "Silakaaa_Full_Song____Mirapakay_Movie___Ravi_Teja,_Richa_Gangopadyaya,Deeksha_Seth(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Singari_Video_Song___Dude___Pradeep_Ranganathan,_Mamitha_Baiju___@SaiAbhyankkar___Keerthiswaran(0).mp3",
+      "title": "Singari_Video_Song___Dude___Pradeep_Ranganathan,_Mamitha_Baiju___@SaiAbhyankkar___Keerthiswaran(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Sweety_Sweety_Video_Song__Race_Gurram_Video_Songs___Allu_Arjun,_Shruti_hassan_S.S_Thaman(0).mp3",
+      "title": "Sweety_Sweety_Video_Song__Race_Gurram_Video_Songs___Allu_Arjun,_Shruti_hassan_S.S_Thaman(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Sye_Video_Songs___Nalla_Nallaani_Kalla_Video_Song___Nitin,_Genelia___Sri_Balaji_Video(0).mp3",
+      "title": "Sye_Video_Songs___Nalla_Nallaani_Kalla_Video_Song___Nitin,_Genelia___Sri_Balaji_Video(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Uyi_Amma_-_Azaad___Aaman_D,_Rasha_Thadani__Madhubanti_Bagchi,Amit_Trivedi,Amitabh__Bosco__Abhishek_K(0).mp3",
+      "title": "Uyi_Amma_-_Azaad___Aaman_D,_Rasha_Thadani__Madhubanti_Bagchi,Amit_Trivedi,Amitabh__Bosco__Abhishek_K(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Vaalu_Kanuladaanaa_-_Audio_Song___Premikula_Roju___A.R._Rahman___Unni_Menon(0).mp3",
+      "title": "Vaalu_Kanuladaanaa_-_Audio_Song___Premikula_Roju___A.R._Rahman___Unni_Menon(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Vaaste_Song__Dhvani_Bhanushali,_Tanishk_Bagchi___Nikhil_D_Souza___Bhushan_Kumar___Radhika_R,_Vinay_S(0).mp3",
+      "title": "Vaaste_Song__Dhvani_Bhanushali,_Tanishk_Bagchi___Nikhil_D_Souza___Bhushan_Kumar___Radhika_R,_Vinay_S(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Veyira_Cheyyi_Veyira_Telugu_Song_Lyrics_-_Panjaa_Item_Song_Telugu_-_Pawan_Kalyan,_Anjali_Lavania(0).mp3",
+      "title": "Veyira_Cheyyi_Veyira_Telugu_Song_Lyrics_-_Panjaa_Item_Song_Telugu_-_Pawan_Kalyan,_Anjali_Lavania(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Vibe_Undi_-_Lyrical___Mirai___Teja_Sajja,_Ritika_Nayak___Karthik_Gattamneni__Gowra_Hari_Armaan_Malik(0).mp3",
+      "title": "Vibe_Undi_-_Lyrical___Mirai___Teja_Sajja,_Ritika_Nayak___Karthik_Gattamneni__Gowra_Hari_Armaan_Malik(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Ye_Manishike_Majiliyo_Full_Video_Song_____MAJILI_Songs____Naga_Chaitanya,_Samantha,_Divyansha(0).mp3",
+      "title": "Ye_Manishike_Majiliyo_Full_Video_Song_____MAJILI_Songs____Naga_Chaitanya,_Samantha,_Divyansha(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Zingaat_-_Official_Full_Video___Sairat___Akash_Thosar___Rinku_Rajguru___Ajay_Atul___Nagraj_Manjule(0).mp3",
+      "title": "Zingaat_-_Official_Full_Video___Sairat___Akash_Thosar___Rinku_Rajguru___Ajay_Atul___Nagraj_Manjule(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/Zum_Zumare_Ali,_Ravi_Teja,_Aasin_Telugu_Evergreen_Movie_Song___@TeluguVideoZ(0).mp3",
+      "title": "Zum_Zumare_Ali,_Ravi_Teja,_Aasin_Telugu_Evergreen_Movie_Song___@TeluguVideoZ(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/_Chittiyaan_Kalaiyaan__FULL_VIDEO_SONG___Roy___Meet_Bros_Anjjan,_Kanika_Kapoor___T-SERIES(0).mp3",
+      "title": "_Chittiyaan_Kalaiyaan__FULL_VIDEO_SONG___Roy___Meet_Bros_Anjjan,_Kanika_Kapoor___T-SERIES(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    },
+    {
+      "path": "/workspaces/bakkaweb/public/assets/music/_Sheila_Ki_Jawani__Full_Song___Tees_Maar_Khan___Katrina_Kaif___Vishal_Dadlani,_Sunidhi_Chauhan(0).mp3",
+      "title": "_Sheila_Ki_Jawani__Full_Song___Tees_Maar_Khan___Katrina_Kaif___Vishal_Dadlani,_Sunidhi_Chauhan(0)",
+      "artist": "Chintu ❤️",
+      "duration": 0,
+      "useInMemories": false,
+      "useInSlideshow": false
+    }
+  ]
+}

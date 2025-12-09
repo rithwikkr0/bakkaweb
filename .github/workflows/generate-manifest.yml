@@ -1,0 +1,45 @@
+name: Generate Manifest
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'public/assets/**'
+      - '.github/workflows/generate-manifest.yml'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Generate manifest
+        run: |
+          node generate-manifest.js
+
+      - name: Commit manifest
+        run: |
+          git config user.name "🤖 Hemashree Bot"
+          git config user.email "hemashree@world.local"
+          git add manifest.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto: Update manifest.json" && git push)
+
+      - name: Create summary
+        run: |
+          echo "✅ Manifest updated automatically" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Files scanned:" >> $GITHUB_STEP_SUMMARY
+          echo "- Memories" >> $GITHUB_STEP_SUMMARY
+          echo "- Videos" >> $GITHUB_STEP_SUMMARY
+          echo "- Secret Files" >> $GITHUB_STEP_SUMMARY
+          echo "- Music" >> $GITHUB_STEP_SUMMARY
